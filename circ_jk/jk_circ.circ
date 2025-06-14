@@ -17,7 +17,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
   </lib>
   <lib desc="file#C:\Users\Pablo\Desktop\coisas pablo\bage engenharia de computacao\logisim\ULA\Somatorio.circ" name="7"/>
   <lib desc="file#C:\Users\Pablo\Desktop\coisas pablo\bage engenharia de computacao\logisim\ULA\Subtrator.circ" name="8"/>
-  <lib desc="file#C:\Users\Pablo\Desktop\coisas pablo\bage engenharia de computacao\logisim\ULA\Multiplexador.circ" name="9"/>
   <main name="main"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
